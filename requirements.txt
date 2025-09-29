@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+seaborn
+shap
+xgboost
+lightgbm
+bokeh
+scipy
+NLTK
+ipykernel
+panel

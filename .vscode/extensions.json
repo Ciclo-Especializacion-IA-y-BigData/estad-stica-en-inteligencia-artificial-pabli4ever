@@ -1,0 +1,23 @@
+{
+  // Lista de extensiones recomendadas para trabajar con el módulo.
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-python.vscode-pylance",
+    "ms-azuretools.vscode-docker",
+    "ms-python.black-formatter",
+    "ms-python.black-formatter",      // Black Formatter
+    "ms-vscode.tools",                // Container Tools
+    "ms-vscode-remote.remote-containers", // Dev Containers
+    "ms-azuretools.vscode-docker",    // Docker
+    "ms-toolsai.jupyter",             // Jupyter
+    "ms-toolsai.jupyter-cell-tags",   // Jupyter Cell Tags
+    "ms-toolsai.jupyter-keymap",      // Jupyter Keymap
+    "ms-toolsai.jupyter-renderers",   // Jupyter Notebook Renderers
+    "ms-toolsai.jupyter-slideshow",   // Jupyter Slide Show
+    "ms-python.vscode-pylance",       // Pylance
+    "ms-python.python",               // Python
+    "ms-python.debugpy",              // Python Debugger
+    "ms-python.vscode-pyenv"          // Python Environments
+  ]
+}
